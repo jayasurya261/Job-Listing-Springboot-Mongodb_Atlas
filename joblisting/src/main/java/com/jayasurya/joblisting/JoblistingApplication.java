@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JoblistingApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JoblistingApplication.class, args);
+		SpringApplication.run(JoblistingApplication.class, args) ;
 	}
 
 }
